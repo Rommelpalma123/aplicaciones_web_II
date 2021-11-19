@@ -1,0 +1,12 @@
+.chat{
+    display: flex;
+    flex-direction: column;
+    flex: 0.60; 
+
+}
+
+.sidebar__headerRight > .MuiSvgIcon {
+
+    margin-right: 20vw; 
+    font-size: 24px !important;
+}
